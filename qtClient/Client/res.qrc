@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file alias="map">imgs/map.png</file>
+        <file alias="video">imgs/video.png</file>
+        <file alias="account">imgs/account.png</file>
+        <file alias="logout">imgs/logout.png</file>
+    </qresource>
+</RCC>
